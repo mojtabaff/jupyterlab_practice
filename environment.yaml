@@ -1,0 +1,7 @@
+name: assignment-7
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+prefix: C:\Users\MOJTABA\.conda\envs\assignment-7
